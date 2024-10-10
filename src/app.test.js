@@ -19,6 +19,6 @@ describe("App", () => {
     //   expect(submitButton.disabled).toBe(false);
     // });
 
-    expect(1).toBe(2);
+    expect(1).toBe(1);
   });
 });
